@@ -1,4 +1,4 @@
-# UserAgent_Gen
+# UserAgent Generator
 
 Simple UserAgents Generator made in Python | Made by **LizardX2**
 
