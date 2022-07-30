@@ -4,7 +4,7 @@ Simple UserAgent Generator made in Python | Made by **LizardX2**
 
 contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 
-Requirements <br />
+Requirements: <br />
 _pip install colorama_<br />
 
 **Supported:**<br /><br />
