@@ -1,6 +1,6 @@
 # UserAgent Generator
 
-Simple UserAgents Generator made in Python | Made by **LizardX2**
+Simple UserAgent Generator made in Python | Made by **LizardX2**
 
 contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 
