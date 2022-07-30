@@ -1,19 +1,19 @@
 # UserAgent_Gen
 
-Simple UserAgents Generator made in Python | Made by LizardX2
+Simple UserAgents Generator made in Python | Made by **LizardX2**
 
-contact for issues or improvements: Telegram @LizardX2 / t.me/LizardX2
+contact for issues or improvements: **Telegram @LizardX2 / t.me/LizardX2**
 
-Supported:
-Windows on Edge
-Windows on Opera
-Windows on Chrome
-Windows on Firefox
+**Supported:**<br /><br />
+*Windows on Edge*<br />
+*Windows on Opera*<br />
+*Windows on Chrome*<br />
+*Windows on Firefox*<br />
 
-MacOS on Edge
-MacOS on Opera
-MacOS on Chrome
-MacOS on Firefox
+*MacOS on Edge*<br />
+*MacOS on Opera*<br />
+*MacOS on Chrome*<br />
+*MacOS on Firefox*<br />
 
-Linux on Chrome
-Linux on Firefox
+*Linux on Chrome*<br />
+*Linux on Firefox*<br />
